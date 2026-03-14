@@ -1,0 +1,76 @@
+Jordan University of Science and Technology
+Department of Cyber Security – CYB 455
+Assignment01 (Revision of HTML & CSS3 & web Hosting)
+     Student name:                                                                                                         Student number:
+Instructions – PLEASE READ THEM CAREFULLY 
+•	The Assignment must be submitted on E-learning. 
+•	Assignments submitted through email will not be accepted. 
+•	Late submission will NOT be accepted.
+•	Avoid plagiarism, the work should be is your own, copying from students or other resources (ChatGPT ) without proper referencing will result in ZERO marks. No exceptions.
+•	Student assignments submitted after the due date will not be marked.
+Objective 
+The objective of this task is to integrate your understanding of HTML, CSS3, to create absolute and relative paths and host a static website. By thoroughly reviewing provided HTML & CSS3 materials, grasping core concepts, syntax, and best practices, you will enhance your ability to design and style web pages effectively. Subsequently, by deploying your website using GitHub /JUST hosting, you will gain practical experience in showcasing your projects and skills to a wider audience on the web. Through this combined effort, you will develop a comprehensive skill set encompassing both front-end development and web hosting, empowering you to create and share your digital creations with confidence and proficiency.
+•	Create a professional portfolio website:
+ 	Home page
+ 	Contact me Page
+1.	A HOME PAGE THAT HAS ON IT:
+ 	Your full name, major (Cybersecurity), and academic level (Fourth Year).
+ 	A list of your key soft skills (e.g., teamwork, analytical thinking, problem-solving, communication, adaptability).
+ 	A professional photo of yourself (formal or academic style).
+ 	A table listing your favorite programming languages, cybersecurity tools, or frameworks, each linked to an external website for further information (e.g., Python → python.org, Wireshark → wireshark.org).
+ 	A "mailto" link that allows visitors to email you directly at your university email address.
+ 	The page title should include your Student ID (SID) and full name.
+ 	An additional section titled “Where Do I See Myself in 4 Years?” — write a short paragraph (4–6 sentences) describing your future goals in the cybersecurity field, such as working in digital forensics, penetration testing, cloud security, or pursuing postgraduate studies.
+2.	A CONTACT ME PAGE THAT HAS ON IT:
+•	Web form that asks your visitor his/her Full Name, Email address, country, and his/her comments. 
+o	“Submit” button that:
+a.	Uses JavaScript to validate that all fields are filled in before submission.
+b.	Displays a simple alert message confirming that the form was submitted successfully.
+3.	ADD NAVIGATION STRUCTURE TO YOUR WEBSITE (CREATE VERY SIMPLE MENU)
+•	In your index.html page, create a link to another page (Contact me Page).
+o	Add style with CSS!
+•	You may use properties you have learned such as color, background-color, font, width/height, text decoration, borders, etc. Also try to use CSS rules that you haven't seen in class but discovered through your own reading.
+o	Launch Your Website:
+After you have built your website, now you are ready to share it with the world. To do so you must host your web site - upload your files into a web server.
+
+
+
+	Hosting Your Website on JUST Server [Till this moment does not work under maintenance]   
+o	As students, all of you already have accounts set up on the J.U.S.T web server. 
+✓ To put your web pages online, we will use the File Transfer Protocol, more 
+commonly known as FTP. 
+✓ Upload the webpage you have created to your website using one of the following steps
+o	https://www.just.edu.jo/Centers/cic/Lists/Services/DispForm.aspx?ID= 11 
+o	Here's a detailed video tutorial step-by-step guide that will teach how to upload your website.
+
+	Hosting Your Website on GitHub [Video- How to Host a Website On Github Pages]
+o	Create a GitHub Account: If you don't already have one, sign up for a GitHub account at github.com.
+o	Create a New Repository:
+	Log in to your GitHub account.
+	Click on the "+" sign in the top right corner and select "New repository."
+	Name your repository <your-username>. github.io. For example, if your username is student123, name your repository student123.github.io.
+	Choose whether you want your repository to be public or private.
+	Click on "Create repository."
+o	Upload Your Website Files:
+	Upload your website files to the repository you just created. Ensure that your main HTML file is named index.html.
+	You can drag and drop files directly into the GitHub web interface or use Git commands to push files to your repository.
+o	Enable GitHub Pages:
+	Go to your repository's settings.
+	Scroll down to the "GitHub Pages" section.
+	Under "Source," select "master branch."
+	Click on "Save."
+o	Access Your Website:
+	After enabling GitHub Pages, GitHub will provide you with a URL where your website is hosted. It will typically be https://<your-username>.github.io.
+	Open a web browser and navigate to this URL to view your hosted website.
+
+
+Tip: The way a Web server chooses a default page to display is simple: When it receives a request that does not include a file name, it consults a list of default file names (such as "index.html", "index.htm", and so forth) and displays the first matching file it finds.
+
+o	Note : Your GitHub username must match your JUST email username.
+For example, if your JUST email is abcdefg@cit.just.edu.jo, your GitHub username should be abcdefg.
+o	Submission:
+•	Submit only your website URL and the absolute and relative path of your photo: 
+	Ex. https://students.just.edu.jo/~154791 
+	Ex. https://majedalqudah.github.io/ 
+	EX: https://assoli99.github.io/Portfolio/
+
